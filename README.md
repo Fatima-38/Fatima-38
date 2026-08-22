@@ -13,7 +13,6 @@
 ### 💻 About Me
 * 🌱 I’m currently pursuing a **B.Sc. in Computer Science at UVAS, Lahore** (3.84/4 Cumulative GPA).
 * 💼 Working as a **Machine Learning Intern at Flyrank** and **Data Annotation Intern at OdyxAI**.
-* 🏆 Recipient of the **Chief Minister Honhaar Scholarship** and Punjab Government **Merit-Based Laptop Award**.
 * ⚡ Areas of Interest: **Machine Learning, Computer Vision, Data Science, and Full-Stack AI Apps**.
 
 ---
@@ -26,21 +25,13 @@
 ---
 
 ### 🚀 Featured Projects
-
-* 🤖 **[QuizMind.AI](https://quiz-mind-ai-project.vercel.app/)** — AI-powered adaptive learning platform featuring dynamic quiz generation.
-  * *Tech Stack:* React, FastAPI, Groq API
-
-* 👁️ **[Driver Drowsiness Detection](https://github.com/Fatima-38/Driver_Drowsiness_Detection)** — Real-time computer vision system to monitor facial landmarks.
-  * *Tech Stack:* Python, OpenCV, NumPy
-
-* 📈 **[Stock Market ETL Pipeline](https://github.com/Fatima-38/Stock_ETL_Pipeline)** — Automated ETL pipeline and interactive real-time dashboard.
-  * *Tech Stack:* Python, Streamlit, Pandas
-
-* 📰 **[Fake News Detection](https://github.com/Fatima-38/Fake_News_Detection)** — Machine learning classifier using logistic regression for news analysis.
-  * *Tech Stack:* Python, Scikit-Learn
-
-* 💰 **[Finance Analyzer](https://github.com/Fatima-38/Finance_Analyzer)** — Personal finance tracking and forecasting tool for monthly expenses.
-  * *Tech Stack:* Python, Pandas, Matplotlib
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **QuizMind.AI** | AI-powered adaptive learning platform featuring dynamic quiz generation. | React, FastAPI, Groq API | [View App](https://quiz-mind-ai-project.vercel.app/) |
+| **Driver Drowsiness Detection** | Real-time computer vision system to monitor facial landmarks. | Python, OpenCV, NumPy | [GitHub](https://github.com/Fatima-38/Driver_Drowsiness_Detection) |
+| **Stock Market ETL Pipeline** | Automated ETL pipeline and interactive real-time dashboard. | Python, Streamlit, Pandas | [GitHub](https://github.com/Fatima-38/Stock_ETL_Pipeline) |
+| **Fake News Detection** | Machine learning classifier using logistic regression for news analysis. | Python, Scikit-Learn | [GitHub](https://github.com/Fatima-38/Fake_News_Detection) |
+| **Finance Analyzer** | Personal finance tracking and forecasting tool for monthly expenses. | Python, Pandas, Matplotlib | [GitHub](https://github.com/Fatima-38/Finance_Analyzer) |
 
 ---
 
@@ -62,5 +53,7 @@
 ---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
+</div>
   <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
 </div>
