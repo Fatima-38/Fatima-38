@@ -11,6 +11,7 @@
 ---
 
 <h1>About Me</h1>
+
 * I’m currently pursuing a **B.Sc. in Computer Science at UVAS, Lahore**.
 * Working as a **Machine Learning Intern at Flyrank** and **Data Annotation Intern at OdyxAI**.
 * Areas of Interest: **Machine Learning, Computer Vision, Data Science, and Full-Stack AI Apps**.
@@ -20,11 +21,10 @@
 <h1>Languages and Tools</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,numpy,pytorch,tensorflow,opencv,github,git,vercel,vscode,sqlite,pandas&perline=5" alt="Technical stack icons"/>
-</p
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,numpy,pytorch,tensorflow,opencv,github,git,vscode,sqlite,pandas&perline=8" alt="Technical stack icons"/>
+</p>
   
 ---
-
 
 <h1>Featured Projects</h1>
 
@@ -38,17 +38,15 @@
 
 ---
 
-
 <h1>GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fatima-38&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatima-38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-38&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="98%"/>
 </p>
-
 
 ---
 
@@ -61,8 +59,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
-</div>
-</div>
   <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
 </div>
