@@ -20,7 +20,7 @@
 ### Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,numpy,pytorch,tensorflow,opencv,github,git,vercel,vscode,sqlite,pandas&perline=10" alt="Technical stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,numpy,pytorch,tensorflow,opencv,github,git,vercel,vscode,sqlite,pandas&perline=5" alt="Technical stack icons"/>
 </p>
 ---
 
