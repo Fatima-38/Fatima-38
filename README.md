@@ -41,7 +41,7 @@
 <h1>GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatima-38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fatima-38&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </p>
 
 <p align="center">
