@@ -10,14 +10,14 @@
 
 ---
 
-### About Me
+<h1>About Me</h1>
 * I’m currently pursuing a **B.Sc. in Computer Science at UVAS, Lahore**.
 * Working as a **Machine Learning Intern at Flyrank** and **Data Annotation Intern at OdyxAI**.
 * Areas of Interest: **Machine Learning, Computer Vision, Data Science, and Full-Stack AI Apps**.
 
 ---
 
-### Languages and Tools
+<h1>Languages and Tools</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,numpy,pytorch,tensorflow,opencv,github,git,vercel,vscode,sqlite,pandas&perline=5" alt="Technical stack icons"/>
@@ -26,7 +26,8 @@
 ---
 
 
-###  Featured Projects
+<h1>Featured Projects</h1>
+
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **QuizMind.AI** | AI-powered adaptive learning platform featuring dynamic quiz generation. | React, FastAPI, Groq API | [View App](https://quiz-mind-ai-project.vercel.app/) |
@@ -51,7 +52,7 @@
 
 ---
 
-### Connect With Me
+<h1>Connect With Me</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/fatima-javaid-330309386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fatimajavaid503@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
