@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Fatima-38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/fatima-javaid-330309386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:fatimajavaid503@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
