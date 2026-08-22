@@ -35,12 +35,17 @@
 
 ---
 
-### GitHub Stats
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Fatima-38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </p>
-</div>
+
+<h1>GitHub Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fatima-38&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-38&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="98%"/>
+</p>
+
 
 ---
 
