@@ -10,21 +10,21 @@
 
 ---
 
-### 💻 About Me
-* 🌱 I’m currently pursuing a **B.Sc. in Computer Science at UVAS, Lahore** (3.84/4 Cumulative GPA).
-* 💼 Working as a **Machine Learning Intern at Flyrank** and **Data Annotation Intern at OdyxAI**.
-* ⚡ Areas of Interest: **Machine Learning, Computer Vision, Data Science, and Full-Stack AI Apps**.
+### About Me
+* I’m currently pursuing a **B.Sc. in Computer Science at UVAS, Lahore**.
+* Working as a **Machine Learning Intern at Flyrank** and **Data Annotation Intern at OdyxAI**.
+* Areas of Interest: **Machine Learning, Computer Vision, Data Science, and Full-Stack AI Apps**.
 
 ---
 
 ### 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,react,fastapi,git,github,vscode,colab,sqlite,pandas,numpy,pytorch,tensorflow" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,react,fastapi,git,github,vscode,colab,sqlite,pandas,numpy" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **QuizMind.AI** | AI-powered adaptive learning platform featuring dynamic quiz generation. | React, FastAPI, Groq API | [View App](https://quiz-mind-ai-project.vercel.app/) |
@@ -54,6 +54,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
+</div>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
 </div>
