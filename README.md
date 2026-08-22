@@ -21,7 +21,7 @@
 <h1>Languages and Tools</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,numpy,opencv,github,git,vscode,sqlite,pandas,vercel,pytorch,tensorflow&perline=5" alt="Technical stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,numpy,opencv,github,git,vscode,sqlite,pandas,vercel,pytorch,tensorflow&perline=8" alt="Technical stack icons"/>
 </p>
   
 ---
