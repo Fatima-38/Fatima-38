@@ -17,9 +17,9 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,react,fastapi,git,github,vscode,colab,sqlite,pandas,numpy" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,react,fastapi,git,github,vscode,colab,sqlite,pandas,numpy,pytorch,tensorflow" alt="Tech Stack Icons" />
 </div>
 
 ---
