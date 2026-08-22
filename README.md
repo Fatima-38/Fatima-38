@@ -18,10 +18,10 @@
 ---
 
 ### Languages and Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,react,fastapi,git,github,vscode,colab,sqlite,pandas,numpy,pytorch,tensorflow" alt="Tech Stack Icons" />
-</div>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,react,colab,sqlite,pandas,numpy,pytorch,tensorflow,opencv,sklearn,fastapi,github,git,vercel,vscode&perline=10" alt="Technical stack icons"/>
+</p>
 ---
 
 ###  Featured Projects
