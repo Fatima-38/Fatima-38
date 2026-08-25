@@ -59,7 +59,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
   <p><em> Thanks for visiting my profile! Let's build something amazing. 🌸</em></p>
+  <img src="https://komarev.com/ghpvc/?username=Fatima-38&color=34D399&style=flat-square" alt="Profile Views" />
 </div>
 
