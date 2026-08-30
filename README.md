@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=180&section=header&text=Fatima%20Javaid&fontSize=40&fontColor=34D399&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20@%20UVAS%20%7C%20ML%20&%20AI%20Enthusiast&descSize=14&descColor=A3E635" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=180&section=header&text=Fatima%20Javaid&fontSize=40&fontColor=34D399&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20@%20UVAS%20%7C%20ML%20&%20AI%20Enthusiast&descSize=14&descColor=A3E635" width="100%" alt="Header Banner" />
 
-  <p>
+  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Building+AI+Solutions+%F0%9F%A4%96;Machine+Learning+Intern+@+Flyrank+%F0%9F%9A%80;Data+Annotation+Intern+@+OdyxAI+%E2%9C%A8;Computer+Science+Undergrad+%F0%9F%92%BB" alt="Typing SVG" />
   </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<h1>Technical Stack</h1>
+<h1>Languages and Tools</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,postgres,sqlite,pytorch,tensorflow,opencv,react,fastapi,html,css,git,github,vscode,vercel&perline=8" alt="Technical stack icons"/>
@@ -34,26 +34,7 @@
 
 <h1>Featured Projects</h1>
 
-<h2>1. FlyRank Content Decay Prioritization System</h2>
-
-<p>Machine learning decision-support system analyzing 30,000 enterprise search URLs to detect traffic decay with a 3.08× precision lift (0.740 vs 0.240) over heuristic baselines.</p>
-
-<h3>Highlights:</h3>
-<ul>
-  <li>Trained LightGBM and Random Forest classifiers on 30k URLs with 44 engineered ranking and volatility features.</li>
-  <li>Implemented leak-free group-aware validation splits preventing domain overlap.</li>
-  <li>Built automated 4-tier Content Action Playbooks (ACT_01 to ACT_04) with clear No-Go decision rules.</li>
-</ul>
-
-<p align="right">
-  <a href="https://github.com/Fatima-38/Flyrank_ML_Internship" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/View_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" alt="View FlyRank Repo"/>
-  </a>
-</p>
-
----
-
-<h2>2. QuizMind.AI — Adaptive Learning Platform</h2>
+<h2>1. QuizMind.AI — Adaptive Learning Platform</h2>
 
 <p>An intelligent adaptive learning platform that generates dynamic quizzes in real-time using Groq LLM API and tracks granular performance metrics with personalized difficulty scaling.</p>
 
@@ -76,7 +57,7 @@
 
 ---
 
-<h2>3. Driver Drowsiness Detection System</h2>
+<h2>2. Driver Drowsiness Detection System</h2>
 
 <p>A real-time safety system utilizing computer vision to track facial landmarks, calculate the Eye Aspect Ratio (EAR), and trigger instant visual and audio alerts to prevent fatigue-related road accidents.</p>
 
@@ -95,7 +76,7 @@
 
 ---
 
-<h2>4. Stock Market ETL Pipeline & Dashboard</h2>
+<h2>3. Stock Market ETL Pipeline & Dashboard</h2>
 
 <p>An automated end-to-end ETL data engineering pipeline that extracts market telemetry from Yahoo Finance, processes technical indicators, persists data into a database, and renders an interactive Streamlit dashboard.</p>
 
@@ -114,7 +95,7 @@
 
 ---
 
-<h2>5. Fake News Detection Classifier</h2>
+<h2>4. Fake News Detection Classifier</h2>
 
 <p>Natural language processing model utilizing TF-IDF n-gram vectorization and Logistic Regression to detect and flag misleading or fabricated online news articles with high reliability.</p>
 
@@ -133,7 +114,7 @@
 
 ---
 
-<h2>6. Personal Finance Analyzer & Forecaster</h2>
+<h2>5. Personal Finance Analyzer & Forecaster</h2>
 
 <p>A comprehensive analytical data tool for tracking personal expenditures, forecasting monthly financial trajectories, and visualizing socio-economic spend categories.</p>
 
@@ -159,7 +140,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/34D399/Fatima-38" alt="Fatima's GitHub Contribution Chart" width="100%"/>
+  <img src="https://activity-graph.vercel.app/graph?username=Fatima-38&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="98%"/>
 </p>
 
 ---
