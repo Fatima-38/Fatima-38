@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=180&section=header&text=Fatima%20Javaid&fontSize=40&fontColor=34D399&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20@%20UVAS%20%7C%20ML%20%26%20AI%20Enthusiast&descSize=14&descColor=A3E635" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24&height=180&section=header&text=Fatima%20Javaid&fontSize=40&fontColor=34D399&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20@%20UVAS%20%7C%20ML%20&%20AI%20Enthusiast&descSize=14&descColor=A3E635" width="100%" />
 
-  <p align="center">
+  <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Building+AI+Solutions+%F0%9F%A4%96;Machine+Learning+Intern+@+Flyrank+%F0%9F%9A%80;Data+Annotation+Intern+@+OdyxAI+%E2%9C%A8;Computer+Science+Undergrad+%F0%9F%92%BB" alt="Typing SVG" />
   </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<h1>Languages and Tools</h1>
+<h1>Technical Stack</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,postgres,sqlite,pytorch,tensorflow,opencv,react,fastapi,html,css,git,github,vscode,vercel&perline=8" alt="Technical stack icons"/>
