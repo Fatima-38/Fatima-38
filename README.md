@@ -159,7 +159,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-38&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="98%"/>
+  <img src="https://ghchart.rshah.org/34D399/Fatima-38" alt="Fatima's GitHub Contribution Chart" width="100%"/>
 </p>
 
 ---
@@ -167,10 +167,10 @@
 <h1>Connect With Me</h1>
 <div align="center">
   <a href="https://fatimajavaid.vercel.app/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-fatimajavaid.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/fatimajavaid503/" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/fatima-javaid-330309386" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
